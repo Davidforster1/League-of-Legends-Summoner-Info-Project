@@ -1,0 +1,10 @@
+.resultsTitle{
+	font-weight:bold;
+}
+.resultsTitle h1 {
+	font-size:16px;
+	text-decoration: underline;
+}
+.resultsBox{
+	padding: 0px;
+}
